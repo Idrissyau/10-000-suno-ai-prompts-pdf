@@ -1,4 +1,4 @@
-````markdown
+
 # 10,000 Suno AI Prompts: The Ultimate Library for Creating Better AI Music
 
 Have you ever heard an AI-generated song that sounded like it came from a professional recording studio?
@@ -450,5 +450,3 @@ Start creating.
 
 👉 **Get instant access to the 10,000 SUNO AI Prompts Library today:** https://idrisyau.gumroad.com/l/rkodk
 
-```
-```
